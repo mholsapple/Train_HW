@@ -1,0 +1,23 @@
+body {
+	background: #eeeeee;
+	margin: 10px;
+}
+
+
+button {
+	background-color: #1172ac;
+	font-size: 30px;
+	align: center;
+
+}
+th{
+	color: #212f3f;
+}
+
+td{
+	color: #212f3f;
+}
+
+table{
+	color: #ffffff;
+}
